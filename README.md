@@ -1,0 +1,1 @@
+# coletanea-exercicios-resolvidos-rust
