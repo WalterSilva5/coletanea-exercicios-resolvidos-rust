@@ -1,0 +1,39 @@
+{
+	"rust-analyzer.linkedProjects": [
+		{
+			"sysroot": "",
+			"crates": [
+				{
+					"root_module": "src/1_ex.rs",
+					"display_name": "src_1_ex",
+					"edition": "2021",
+					"deps": []
+				},
+				{
+					"root_module": "src/2_ex.rs",
+					"display_name": "src_2_ex",
+					"edition": "2021",
+					"deps": []
+				},
+				{
+					"root_module": "src/3_ex.rs",
+					"display_name": "src_3_ex",
+					"edition": "2021",
+					"deps": []
+				},
+				{
+					"root_module": "src/4_ex.rs",
+					"display_name": "src_4_ex",
+					"edition": "2021",
+					"deps": []
+				},
+				{
+					"root_module": "src/5_ex.rs",
+					"display_name": "src_5_ex",
+					"edition": "2021",
+					"deps": []
+				}
+			]
+		}
+	]
+}
